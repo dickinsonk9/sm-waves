@@ -1,5 +1,5 @@
 # Information 
-This plugin was designed for an employer. Used for projects within company and private usage (as this is created by me, with the addition of another plugin, called [Genesis Custom Blocks](https://wordpress.org/plugins/genesis-custom-blocks/) ). 
+This plugin was designed for an employer. Used for projects within company and private usage (as this is created by me, with the addition of another plugin, called [Genesis Custom Blocks](https://wordpress.org/plugins/genesis-custom-blocks/)). 
 
 In order to use this plugin _Custom Waves_, you will need to have the Genesis Custom Blocks installed within your theme. You may find the [github](https://github.com/studiopress/genesis-custom-blocks) and the [developer docs](https://developer.wpengine.com/genesis-custom-blocks/) in their respective places. 
 
@@ -19,6 +19,9 @@ In order to use this plugin _Custom Waves_, you will need to have the Genesis Cu
 
 ## Sources
    [Genesis Custom Blocks](https://wordpress.org/plugins/genesis-custom-blocks/)
+   
    [Studiopress' Github](https://github.com/studiopress/genesis-custom-blocks)
+   
    [GCB Developer Docs](https://developer.wpengine.com/genesis-custom-blocks/)
+   
    [Codepen by GoodKatz](https://codepen.io/goodkatz/pen/LYPGxQz)
