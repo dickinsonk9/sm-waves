@@ -18,7 +18,7 @@ In order to use this plugin _Custom Waves_, you will need to have the Genesis Cu
         *Change the alignment to Full Width.
 
 ## Sources
-    1. [Genesis Custom Blocks](https://wordpress.org/plugins/genesis-custom-blocks/)
-    2. [Studiopress' Github](https://github.com/studiopress/genesis-custom-blocks)
-    3. [GCB Developer Docs](https://developer.wpengine.com/genesis-custom-blocks/)
-    4. [Codepen by GoodKatz](https://codepen.io/goodkatz/pen/LYPGxQz)
+   [Genesis Custom Blocks](https://wordpress.org/plugins/genesis-custom-blocks/)
+   [Studiopress' Github](https://github.com/studiopress/genesis-custom-blocks)
+   [GCB Developer Docs](https://developer.wpengine.com/genesis-custom-blocks/)
+   [Codepen by GoodKatz](https://codepen.io/goodkatz/pen/LYPGxQz)
