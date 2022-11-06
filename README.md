@@ -9,7 +9,7 @@ In order to use this plugin _Custom Waves_, you will need to have the Genesis Cu
     3. In your theme (preferably a genesis theme), create a folder named blocks.
     4. Move the block-custom-waves.php into the blocks folder within your theme.
 
-###Recommendations on how to use this plugin to add into the editor: 
+### Recommendations on how to use this plugin to add into the editor: 
     1. Group Block
         *Change the alignment to Full Width.
     2. Waves Cover Block
